@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirti18patel
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Advanced JavaScript
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning Advanced JavaScript and web development technologies 
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ... reach me at kirti18patel@yahoo.com
 
