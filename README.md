@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirti18patel
+- 👋 Hi, I’m Kirti Patel
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Advanced JavaScript and web development technologies 
 - 💞️ I’m looking to collaborate on Web Development
