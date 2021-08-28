@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kirti Patel
+- 👋 Hi, I’m Kirti Patel, an ambitious and passionate Full Stack Developer  
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Advanced JavaScript and web development technologies 
 - 💞️ I’m looking to collaborate on Web Development
