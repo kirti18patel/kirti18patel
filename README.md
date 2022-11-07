@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirti Patel, an ambitious and passionate Full Stack Developer + Quick learner
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Advanced JavaScript and web development technologies 
+- 🌱 Focused on JavaScript and web development technologies 
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ... reach me at kirti18patel@yahoo.com
 - Visit my portfolio to know more https://kirti-portfolio.herokuapp.com/
