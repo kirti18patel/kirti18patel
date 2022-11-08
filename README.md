@@ -3,7 +3,6 @@
 - 🌱 Focused on JavaScript and web development technologies 
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ... reach me at kirti18patel@yahoo.com
-- Visit my portfolio to know more https://kirti-portfolio.herokuapp.com/
 
 <!---
 kirti18patel/kirti18patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
